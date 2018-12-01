@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1723798847",
+    "firebase_url": "https://ramospractical2.firebaseio.com",
+    "project_id": "ramospractical2",
+    "storage_bucket": "ramospractical2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1723798847:android:e2c455bf4ef81a0c",
+        "android_client_info": {
+          "package_name": "patricia.ramos.com.ramos_practical2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1723798847-nhiu63ucgsrcni8kht2tf5r58eqe4ivo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "patricia.ramos.com.ramos_practical2",
+            "certificate_hash": "2a2dc12b6e412a2243d6450b0bb810c85b0cdd39"
+          }
+        },
+        {
+          "client_id": "1723798847-7v219jqjbq9ele29jadma51gqg7d3qlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKhConfe_7YB9XaXlrdLLqq_tNluBUvus"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1723798847-7v219jqjbq9ele29jadma51gqg7d3qlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
